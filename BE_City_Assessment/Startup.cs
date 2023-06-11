@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 
 namespace BE_City_Assessment
 {
-    public class Startup
+    public class Startup  
     {
          
         public Startup(IConfiguration configuration)
