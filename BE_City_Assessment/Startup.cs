@@ -15,7 +15,7 @@ namespace BE_City_Assessment
 {
     public class Startup
     {
-        
+         
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
