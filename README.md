@@ -1,6 +1,6 @@
 # BE_City_Assessment
 
-This is BE Solution developed  in /Net Core
+This is BE Solution developed  in .Net Core
 
 It will display the products
 - 1. Run this solution and Click the Products link
