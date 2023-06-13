@@ -16,10 +16,8 @@ namespace BE_City_Asessment.Models
         {
             get
             {
-                return (UnitPrice * 1.2).ToString("C2"); ;
-                
-            }
-            
+                return (UnitPrice * 1.2).ToString("C2"); ;                
+            }            
         }
         public int? MaximumQuantity { get; set; }
     }
